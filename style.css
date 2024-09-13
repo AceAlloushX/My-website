@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;}
+/***********************************/
+
+header {
+    background: #23c54b;
+    color: #f4f4f4;
+    padding: 1rem;
+    text-align: center;} 
+h2 {color: #23c54b;}
+/***********************************/
+
+ul {
+    list-style: none;
+    padding: 0;}
+ul li {
+    display: inline; 
+    margin: 10px;}
+ul li a {
+    color: #fff;
+    text-decoration: none;}
+/***********************************/
+
+ol {
+    list-style: none; /* Remove default numbering */
+    padding: 0; /* Remove default padding */ }  
+ol li {position: relative; /* Position relative for positioning the pseudo-element */
+        padding-left: 20px; /* Space for the circle */ }
+ol li::before {
+    content: ''; /* Empty content for the circle */
+    position: absolute; /* Absolute positioning for the circle */
+    left: 0; /* Position it to the left of the list item */
+    top: 50%; /* Center vertically */
+    transform: translateY(-50%); /* Center vertically */
+    color: #23c54b;
+    width: 7px; /* Circle diameter */
+    height: 7px; /* Circle diameter */
+    background-color: #000000; /* Circle color */
+    border-radius: 50%; /* Make it a circle */}
+ /***********************************/   
+
+main {
+    padding: 20px;}
+/***********************************/
+
+footer {
+    text-align: center;
+    padding: 1rem;
+    background: #23c54b;
+    color: #fff;
+    position: absolute;
+    bottom: 100;
+    width: 100%;}

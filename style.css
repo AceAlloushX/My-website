@@ -7,11 +7,13 @@ body {
 /***********************************/
 
 header {
-    background: #23c54b;
+    background: #af1c1c;
     color: #f4f4f4;
     padding: 1rem;
     text-align: center;} 
-h2 {color: #23c54b;}
+h2 {
+    font-weight: bold;
+    color: #af1c1c;}
 /***********************************/
 
 ul {
@@ -36,7 +38,7 @@ ol li::before {
     left: 0; /* Position it to the left of the list item */
     top: 50%; /* Center vertically */
     transform: translateY(-50%); /* Center vertically */
-    color: #23c54b;
+    color: #af1c1c;
     width: 7px; /* Circle diameter */
     height: 7px; /* Circle diameter */
     background-color: #000000; /* Circle color */
@@ -46,11 +48,27 @@ ol li::before {
 main {
     padding: 20px;}
 /***********************************/
+#backToTop {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    padding: 10px 15px;
+    background-color: #7c6565;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    display: none; /* Hidden initially */
+}
+
+#backToTop:hover {
+    background-color: #af1c1c;}
+/***********************************/
 
 footer {
     text-align: center;
     padding: 1rem;
-    background: #23c54b;
+    background: #af1c1c;
     color: #fff;
     position: absolute;
     bottom: 100;

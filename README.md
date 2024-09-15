@@ -3,7 +3,8 @@
 - Added a "Back to Top" button.  
 - Included arrows next to headers for better navigation.  
 - Replaced "Download Certificate" text with a down arrow icon.  
-- Added a new favicon for display on the browser tab.  
+- Added a new favicon for display on the browser tab.
+- Adjust compatibility view on Smaller screens.
 
 <br><br>
 

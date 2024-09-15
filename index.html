@@ -7,6 +7,9 @@
     <title>My Portfolio</title>
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="fontawesome-free-6.6.0-web\css\all.css">
+
+    <!--Add fav icon to bookmark displayed icon-->
+    <link rel="icon" href="pics/dev_favicon.ico" type="image/x-icon">
 </head>
 <body>
     <header>
@@ -173,8 +176,12 @@
     <footer>      
             <p>&copy; <span id="year"></span> Mohammad Alloush</p>
     </footer> 
-    <button id="backToTop">Back to Top <i class="fa fa-arrow-up" aria-hidden="true"></i></button>
-    <script src="script.js"></script>
+
+    <!--Back to top button-->
+    <button id="backToTop">Back to Top <i class="fa fa-arrow-up" aria-hidden="true"></i></button>   
+    
+    <!--Java script for the update automatically of the year for copyright-->
+    <script src="script.js"></script>                                                                               
     <script> const year = new Date().getFullYear(); document.getElementById("year").textContent = year;</script>  
 </body>
 </html>

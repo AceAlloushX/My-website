@@ -1,7 +1,7 @@
 14/9/2024, Version 1.2  
 - Adjust compatibility view on Smaller screens.
 - Updated the right arrow in front of about me, prohjects, etc. to view a suitable icon instead of an arrow.
-<br><be>
+<br><br>
 
 14/9/2024, Version 1.1  
 - Updated theme color to red.  

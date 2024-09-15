@@ -5,7 +5,7 @@
 - Replaced "Download Certificate" text with a down arrow icon.  
 - Added a new favicon for display on the browser tab.
 - Adjust compatibility view on Smaller screens.
-
+- Updated the right arrow in front of about me, prohjects, etc. to view a suitable icon instead of an arrow.
 <br><br>
 
 13/9/2024, Version 1.0  

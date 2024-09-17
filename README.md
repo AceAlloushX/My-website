@@ -1,7 +1,6 @@
 15/9/2024, Version 1.2  
 - Adjust compatibility view on Smaller screens.
 - Updated the right arrow in front of about me, prohjects, etc. to view a suitable icon instead of an arrow.
-- Free Analytics for website statistics has been added.
 <br><br>
 
 14/9/2024, Version 1.1  

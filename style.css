@@ -22,6 +22,15 @@ body {
     }
 }
 /***********************************/
+pre {
+    font-family: Arial, sans-serif;
+    font-size: 1rem;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+/***********************************/
 
 header {
     background: #af1c1c;

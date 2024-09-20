@@ -1,3 +1,7 @@
+20/9/2024, Version 1.3  
+- Removed the skills order list and switched to pargraph.
+<br><br>
+
 15/9/2024, Version 1.2  
 - Adjust compatibility view on Smaller screens.
 - Updated the right arrow in front of about me, prohjects, etc. to view a suitable icon instead of an arrow.

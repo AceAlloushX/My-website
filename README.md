@@ -1,18 +1,18 @@
 20/9/2024, Version 1.3  
-- Removed the skills order list and switched to pargraph.
+- Replaced skills order list with paragraph format.
 <br><br>
 
 15/9/2024, Version 1.2  
-- Adjust compatibility view on Smaller screens.
-- Updated the right arrow in front of about me, prohjects, etc. to view a suitable icon instead of an arrow.
+- Improved compatibility view for smaller screens.
+- Updated navigation arrows with appropriate icons for sections like "About Me," "Projects," etc.
 <br><br>
 
 14/9/2024, Version 1.1  
-- Updated theme color to red.  
-- Added a "Back to Top" button.  
-- Included arrows next to headers for better navigation.  
-- Replaced "Download Certificate" text with a down arrow icon.  
-- Added a new favicon for display on the browser tab.
+- Enhanced theme color to red for a more vibrant look.
+- AAdded a "Back to Top" button for improved user experience.
+- Implemented arrow indicators next to headers to enhance navigation.
+- Replaced "Download Certificate" text with a down arrow icon for clarity.
+- Updated favicon for better tab identification in browsers.
 <br><br>
 
 13/9/2024, Version 1.0  

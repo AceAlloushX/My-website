@@ -1,5 +1,6 @@
 23/10/2024, Version 1.4
 - Background has been enhanced for a more modern and visually appealing experience.
+- Resolved an issue causing extra horizontal space when viewing the site on mobile devices.
 <br><br>
 
 20/9/2024, Version 1.3  

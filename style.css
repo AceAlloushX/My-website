@@ -5,25 +5,32 @@ body {
     margin: 0;
     padding: 0;
     background-image: url(pics/pic_background.jpg);
-    background-size: cover; 
-    background-position: center; 
-    background-repeat: no-repeat; 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+}
 
-    @media (max-width: 768px) {
+@media (max-width: 768px) {
+    body {
         font-size: 14px;
-      }
-      img {
-        width: 100%;
-        height: auto;
-      }
-  .container {
-      display: flex;
-      flex-wrap: wrap;
-    }
-    .item {
-      flex: 1 1 300px; /* Allows the item to grow/shrink based on available space */
     }
 }
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.item {
+    flex: 1 1 300px;
+}
+
 /***********************************/
 pre {
     font-family: Arial, sans-serif;

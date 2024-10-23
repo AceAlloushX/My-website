@@ -1,3 +1,6 @@
+23/10/2024, Version 1.4
+- Background has been enhanced for a more modern and visually appealing experience.
+
 20/9/2024, Version 1.3  
 - Replaced skills order list with paragraph format.
 - Updated #contact to include proper spacing and structured font styling for a clean look.

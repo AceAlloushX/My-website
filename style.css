@@ -88,8 +88,8 @@ main {
     position: fixed;
     bottom: 2%;
     right: 2%;
-    padding: 0.5%;
-    background-color: #7c6565;
+    padding: 10px 25px;
+    background-color: #000000;
     color: #fff;
     border: none;
     border-radius: 5px;

@@ -48,7 +48,7 @@ header {
     background: #af1c1c;
     color: #f4f4f4;
     width: 100%;
-    position: relative;}} 
+    position: relative;}
 h2 {
     font-weight: bold;
     color: #af1c1c;}
@@ -89,9 +89,9 @@ main {
 
 #backToTop {
     position: fixed;
-    bottom: calc(2% + 10px);
-    right: calc(2% + 10px);  
-    padding: 10px 25px;
+    bottom: 20px;
+    right: 20px;
+    padding: 10px 15px;
     background-color: #000000;
     color: #fff;
     border: none;

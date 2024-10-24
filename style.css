@@ -84,26 +84,22 @@ ol li::before {
 main {
     padding: 20px;}
 /***********************************/
-
+/*
 #backToTop {
     position: fixed;
-    bottom: calc(2% + 10px); /* Avoids getting too close to the screen edge */
-    right: calc(2% + 10px);  /* Adjusts for better spacing on mobile */
+    bottom: calc(2% + 10px);
+    right: calc(2% + 10px);  
     padding: 10px 25px;
     background-color: #000000;
     color: #fff;
     border: none;
     border-radius: 5px;
     cursor: pointer;
-    display: none; /* Hidden initially */
-    z-index: 1000;  /* Ensures the button stays on top */}
+    display: none;
+    z-index: 1000; }
 
 #backToTop:hover {
-    background-color: #af1c1c;}
-
-/* Add this to ensure no horizontal scroll */
-body {
-    overflow-x: hidden;}
+    background-color: #af1c1c;}*/
 /***********************************/
 
   

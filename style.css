@@ -43,10 +43,12 @@ pre {
 /***********************************/
 
 header {
+    text-align: center;
+    padding: 1rem;
     background: #af1c1c;
     color: #f4f4f4;
-    padding: 1rem;
-    text-align: center;} 
+    width: 100%;
+    position: relative;}} 
 h2 {
     font-weight: bold;
     color: #af1c1c;}
@@ -84,7 +86,7 @@ ol li::before {
 main {
     padding: 20px;}
 /***********************************/
-/*
+
 #backToTop {
     position: fixed;
     bottom: calc(2% + 10px);
@@ -99,7 +101,7 @@ main {
     z-index: 1000; }
 
 #backToTop:hover {
-    background-color: #af1c1c;}*/
+    background-color: #af1c1c;}
 /***********************************/
 
   
@@ -109,6 +111,5 @@ footer {
     background: #af1c1c;
     color: #fff;
     width: 100%;
-    position: relative;
-}
+    position: relative;}
 /***********************************/

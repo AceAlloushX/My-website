@@ -4,7 +4,7 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background-image: url(pics/pic_background.jpg);
+    background-color: #fff;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;

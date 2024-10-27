@@ -26,4 +26,4 @@
 <br><br>
 
 13/9/2024, Version 1.0  
-- Initial release.
+- Initial release

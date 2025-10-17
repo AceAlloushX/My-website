@@ -1,3 +1,8 @@
+17/10/2025, Version 1.6
+- Uodated Microsoft Expert - Enterprise Administrator expiry date.
+- Uodated Microsoft Associate - Enterprise Administrator expiry date.
+<br><br>
+
 27/10/2024, Version 1.5
 - Uodated Microsoft Expert - Enterprise Administrator expiry date.
 <br><br>
